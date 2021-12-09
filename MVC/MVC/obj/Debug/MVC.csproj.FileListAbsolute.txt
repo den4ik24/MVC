@@ -1,0 +1,6 @@
+/Users/den4ik/Projects/MVC/MVC/bin/Debug/MVC.exe
+/Users/den4ik/Projects/MVC/MVC/bin/Debug/MVC.pdb
+/Users/den4ik/Projects/MVC/MVC/obj/Debug/MVC.csproj.CoreCompileInputs.cache
+/Users/den4ik/Projects/MVC/MVC/obj/Debug/MVC.exe
+/Users/den4ik/Projects/MVC/MVC/obj/Debug/MVC.pdb
+/Users/den4ik/Projects/MVC/MVC/obj/Debug/MVC.csproj.AssemblyReference.cache
